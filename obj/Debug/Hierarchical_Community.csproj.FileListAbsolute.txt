@@ -1,0 +1,18 @@
+c:\users\me1988\documents\visual studio 2013\Projects\Hierarchical_Community\Hierarchical_Community\bin\Debug\Hierarchical_Community.exe.config
+c:\users\me1988\documents\visual studio 2013\Projects\Hierarchical_Community\Hierarchical_Community\bin\Debug\Hierarchical_Community.exe
+c:\users\me1988\documents\visual studio 2013\Projects\Hierarchical_Community\Hierarchical_Community\bin\Debug\Hierarchical_Community.pdb
+c:\users\me1988\documents\visual studio 2013\Projects\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.csprojResolveAssemblyReference.cache
+c:\users\me1988\documents\visual studio 2013\Projects\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.Properties.Resources.resources
+c:\users\me1988\documents\visual studio 2013\Projects\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.csproj.GenerateResource.Cache
+c:\users\me1988\documents\visual studio 2013\Projects\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.exe
+c:\users\me1988\documents\visual studio 2013\Projects\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.pdb
+c:\users\me1988\documents\visual studio 2013\Projects\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.Main.resources
+F:\Projects\Roshd\تشخیص جامعه سلسله مراتبی\Hierarchical_Community\Hierarchical_Community\bin\Debug\Hierarchical_Community.exe.config
+F:\Projects\Roshd\تشخیص جامعه سلسله مراتبی\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.exe
+F:\Projects\Roshd\تشخیص جامعه سلسله مراتبی\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.pdb
+F:\Projects\Roshd\تشخیص جامعه سلسله مراتبی\Hierarchical_Community\Hierarchical_Community\bin\Debug\Hierarchical_Community.exe
+F:\Projects\Roshd\تشخیص جامعه سلسله مراتبی\Hierarchical_Community\Hierarchical_Community\bin\Debug\Hierarchical_Community.pdb
+F:\Projects\Roshd\تشخیص جامعه سلسله مراتبی\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.csprojResolveAssemblyReference.cache
+F:\Projects\Roshd\تشخیص جامعه سلسله مراتبی\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.Main.resources
+F:\Projects\Roshd\تشخیص جامعه سلسله مراتبی\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.Properties.Resources.resources
+F:\Projects\Roshd\تشخیص جامعه سلسله مراتبی\Hierarchical_Community\Hierarchical_Community\obj\Debug\Hierarchical_Community.csproj.GenerateResource.Cache
